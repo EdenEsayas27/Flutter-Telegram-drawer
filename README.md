@@ -13,5 +13,5 @@ A list of common Telegram drawer items like Contacts, Calls, Settings, Invite Fr
 
 Make sure Flutter is installed.
 Clone the project and run:
-flutter pub get
+flutter pub get,
 flutter run
