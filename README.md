@@ -1,16 +1,17 @@
-# telegramdrawer
+# Telegram Drawer (Flutter)
+This Flutter project replicates the side drawer UI of the Telegram app. It includes:
 
-A new Flutter project.
+A styled app bar with Telegram's signature color 
 
-## Getting Started
+A user profile section with an avatar, name, and phone number.
 
-This project is a starting point for a Flutter application.
+A dropdown toggle to show an "Add Account" option.
 
-A few resources to get you started if this is your first Flutter project:
+A list of common Telegram drawer items like Contacts, Calls, Settings, Invite Friends, and FAQ.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Running the App on Your Device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure Flutter is installed.
+Clone the project and run:
+flutter pub get
+flutter run
